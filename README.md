@@ -12,7 +12,17 @@ cd AlexaRankBooster
 python alexa.py https://yourwebsite.com PRoxy_List.txt
 ```
 
-## Linux
+## Windows
+
+# [Click Here](https://github.com/iwhh/AlexaRankBooster/archive/master.zip)
 ```sh
-[Click Here](https://github.com/iwhh/AlexaRankBooster/archive/master.zip)
+when file downloaded
+uzip it then
+cd AlexaRankBooster
+python alexa.py https://your-website.com Proxy_List.txt
 ```
+
+# [Contact me on instagram](https://instagram.com/the._.mobin)
+# [Conect me on Telegram](https://t.me/Th3_mobin)
+
+## GoodLuck <3
