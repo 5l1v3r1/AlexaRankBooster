@@ -14,8 +14,5 @@ python alexa.py https://yourwebsite.com PRoxy_List.txt
 
 ## Linux
 ```sh
-cd $HOME
-git clone https://github.com/iwhh/AlexaRankBooster.git
-cd AlexaRankBooster
-python alexa.py https://yourwebsite.com PRoxy_List.txt
+[Click Here](https://github.com/iwhh/AlexaRankBooster/archive/master.zip)
 ```
